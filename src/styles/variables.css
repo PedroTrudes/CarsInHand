@@ -11,6 +11,8 @@
 
 h1, h2, h3 {
     font-family: var(--font-primary);
+    padding: 0px;
+    margin: 0px;
 }
 
 span, p {
@@ -21,3 +23,6 @@ button {
     background-color: var(--color-button-primary);
 }
 
+body{
+    background-color: var(--color-primary);
+}
