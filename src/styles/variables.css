@@ -1,0 +1,23 @@
+:root{
+    --font-primary: 'Poppins', sans-serif;
+    --font-secundary: 'Inter', sans-serif;
+    --color-primary: #F5F5F5;
+    --color-secundary: #1E1E1E;
+    --color-button-primary: #FF6F00;
+    --color-button-secundary: #D32F2F;
+
+
+}
+
+h1, h2, h3 {
+    font-family: var(--font-primary);
+}
+
+span, p {
+    font-family: var(--font-secundary);
+}
+
+button {
+    background-color: var(--color-button-primary);
+}
+
